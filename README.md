@@ -74,12 +74,18 @@ Cities across the globe are struggling with inefficient waste management due to 
 - ONNX runtime  
 - Node.js (optional, for frontend development)
 
+
+----
+
+
+
 ### Installation Steps  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/<Xexo_Alive>/Lumibin.git
    cd Lumibin
 2.Set up the backend:
-   cd backend
+  ```bash
+cd backend
 pip install -r requirements.txt
 python app.py
