@@ -86,6 +86,6 @@ Cities across the globe are struggling with inefficient waste management due to 
    cd Lumibin
 2.Set up the backend:
   ```bash
-cd backend
-pip install -r requirements.txt
-python app.py
+  cd backend
+  pip install -r requirements.txt
+  python app.py
