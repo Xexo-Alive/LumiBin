@@ -1,5 +1,5 @@
 # Lumibin  
-*Illuminating Urban Waste Management with AI-Powered Geo-Tracking and Gamification.*
+Illuminating Urban Waste Management with AI-Powered Geo-Tracking and Gamification.
 
 
 ----
