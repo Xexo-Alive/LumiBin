@@ -1,0 +1,5 @@
+Object Name: hair drier
+Object ID: 78
+Confidence: 0.60
+Bounding Box: (364, 136, 576, 309)
+Geo-location: Latitude: 26.9196, Longitude: 75.7878

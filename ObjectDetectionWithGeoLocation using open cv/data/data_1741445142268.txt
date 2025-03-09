@@ -1,0 +1,5 @@
+Object Name: toothbrush
+Object ID: 79
+Confidence: 0.61
+Bounding Box: (154, 327, 488, 373)
+Geo-location: Latitude: 26.9196, Longitude: 75.7878

@@ -1,0 +1,5 @@
+Object Name: cup
+Object ID: 41
+Confidence: 0.85
+Bounding Box: (184, 155, 272, 372)
+Geo-location: Latitude: 26.9196, Longitude: 75.7878

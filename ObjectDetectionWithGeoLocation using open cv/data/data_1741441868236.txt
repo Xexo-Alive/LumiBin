@@ -1,0 +1,5 @@
+Object Name: bottle
+Object ID: 39
+Confidence: 0.58
+Bounding Box: (266, 237, 496, 417)
+Geo-location: Latitude: 26.9196, Longitude: 75.7878

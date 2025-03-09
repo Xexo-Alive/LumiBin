@@ -1,0 +1,5 @@
+Object Name: remote
+Object ID: 65
+Confidence: 0.87
+Bounding Box: (226, 202, 296, 427)
+Geo-location: Latitude: 26.9196, Longitude: 75.7878

@@ -1,0 +1,5 @@
+Object Name: tv
+Object ID: 62
+Confidence: 0.61
+Bounding Box: (235, 390, 290, 435)
+Geo-location: Latitude: 26.9196, Longitude: 75.7878

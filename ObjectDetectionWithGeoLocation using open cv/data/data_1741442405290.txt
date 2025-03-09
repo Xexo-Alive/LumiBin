@@ -1,0 +1,5 @@
+Object Name: wine glass
+Object ID: 40
+Confidence: 0.67
+Bounding Box: (29, 61, 216, 479)
+Geo-location: Latitude: 26.9196, Longitude: 75.7878

@@ -1,0 +1,5 @@
+Object Name: cell phone
+Object ID: 67
+Confidence: 0.96
+Bounding Box: (0, 81, 574, 472)
+Geo-location: Latitude: 26.9196, Longitude: 75.7878

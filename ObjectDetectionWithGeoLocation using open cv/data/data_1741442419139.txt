@@ -1,0 +1,5 @@
+Object Name: laptop
+Object ID: 63
+Confidence: 0.69
+Bounding Box: (243, 425, 374, 479)
+Geo-location: Latitude: 26.9196, Longitude: 75.7878
